@@ -1,4 +1,4 @@
-<h1>Welcome to Flex Consulting Services Github page!</h1>
+<h1>Flex Consulting Services</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/jMvzAhg.png" width="100"/>
